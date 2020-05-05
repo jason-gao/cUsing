@@ -99,8 +99,6 @@ int main() {
     double a22 = (double) (10 / 4);
     printf("a19=%f, a20=%f, a21=%f, a22=%f \n", a19, a20, a21, a22);
 
-tdmg9088qqh
-tdmg9088qqh
 
     return 0;
 }
